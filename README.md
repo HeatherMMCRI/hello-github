@@ -1,1 +1,2 @@
 # hello-github
+This repository was created to teach me how to save R projects to github if they hadn't originally been created by linking to verion control. Using gitbash cd ~/dir/name/of/path/to/file [ENTER] git init [ENTER] this initializes this directory as a git repository. git add . [ENTER] adds all the files in the directory to the github repo. git commit -m "Initial commit" commits this change on the command line.
